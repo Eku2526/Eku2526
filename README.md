@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ekutrivedi2512@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:@eku__2526__</h3>
 <p align="left">
 </p>
 
