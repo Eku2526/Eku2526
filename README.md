@@ -12,7 +12,7 @@
 - 📫 How to reach me **ekutrivedi2512@gmail.com**
 
 
-  <h3 align="center">A passionate frontend developer from India</h3>
+  <h3 align="center">A passionate fultter developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
