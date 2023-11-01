@@ -3,7 +3,7 @@
 <h3 align="center">Flutter developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="[https://static.vecteezy.com/system/resources/thumbnails/000/242/482/small/female-developer.jpg](https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif)">
 
 - 🌱 I’m currently learning **BCA & Master in flutter**
 
